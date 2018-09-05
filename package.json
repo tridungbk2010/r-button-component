@@ -4,6 +4,7 @@
   "description": "simple component",
   "main": "dist/index.js",
   "author": "dung.ho",
+  "repository": "https://github.com/tridungbk2010/r-button-component.git",
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
